@@ -1,0 +1,21 @@
+So this is a few things that are completely (most of the time) useless.
+
+1. Create a variable (Common Sense) EX: my_var = "swag"
+  1a. This creates a variable, "my_var", with the output/value of "swag"
+
+2. Use the "print" command to, well, print the value on the screen. EX: print my_var
+  2a. Because "my_var" is set to "swag", this would print "swag" on the screen.
+  
+3. Your can use len command to show the length of the variable.  EX: print len(my_var);
+  3a. This would output "4", because there are 4 letters in swag
+  
+4  These two commands are pretyy much the same, .lower() and .upper() EX: print my_var.upper()    OR   print my_var.lower()
+  4a.  This chnages "swag" to upper or lower case
+  
+5. The "%" are like place holders, only making it more complicated on yourself unless youre doing a huge project. EX: print "I have %s" % (swag);
+  5a.  This prints "I have swag", because we set the % place holder to equal swag.
+  
+  
+  
+  
+More Comming Soon
