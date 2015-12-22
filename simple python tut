@@ -16,6 +16,13 @@ So this is a few things that are completely (most of the time) useless.
   5a.  This prints "I have swag", because we set the % place holder to equal swag.
   
   
-  
+  Also:
+  Equal (==)
+  Not Equal (!=)
+  Less Than (<)
+  Less than or equal to (<=)
+  Greater Than (>)
+  Greater than or equal to (>=)
+  Just a bit more for when your get more complex
   
 More Comming Soon
